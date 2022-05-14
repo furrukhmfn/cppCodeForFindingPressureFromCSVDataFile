@@ -4,7 +4,7 @@ This code is basically a depiction of handling CSV file in C++ and utilizing it 
 Note: Do see the instrcutions.pdf as well before seeing the code. 
 
 
-Regards, 
-Furrukh Nadeem
-furrukhmfn@gmail.com
+Regards, <br>
+Furrukh Nadeem <br>
+furrukhmfn@gmail.com <br>
 +92-310-6629845
